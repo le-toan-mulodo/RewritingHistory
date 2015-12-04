@@ -6,3 +6,4 @@ Add footer template
 
 
 Edit body template
+Edit footer template
