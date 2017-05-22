@@ -1,17 +1,12 @@
 <?php
 echo "This is a index page";
 echo "This is a index page new ";
-<<<<<<< HEAD
-echo "This is a index page new 2";
-=======
 echo "This is a index page new 2";
 
-
-//add new comment
-
+//line for conflicts
 <<<<<<< HEAD
-// comment 2
+//comment 1
 =======
-// comment 2
->>>>>>> 84d64f8... commit 2
->>>>>>> REVIEW2
+//comment 2
+//comment 3
+>>>>>>> d78577b... commit for comment 3
