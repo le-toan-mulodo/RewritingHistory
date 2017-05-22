@@ -4,9 +4,10 @@ echo "This is a index page new ";
 echo "This is a index page new 2";
 
 //line for conflicts
-<<<<<<< HEAD
 //comment 1
-=======
 //comment 2
+<<<<<<< HEAD
+=======
 //comment 3
->>>>>>> d78577b... commit for comment 3
+//comment 4
+>>>>>>> 54c70e0... commit for comment 4
